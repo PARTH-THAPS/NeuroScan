@@ -1,0 +1,11 @@
+Training/
+Testing/
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.pkl
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
