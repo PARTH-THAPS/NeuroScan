@@ -1,5 +1,9 @@
 # 🧠 NeuroScan – Brain Tumor MRI Classification
 
+
+<img width="1307" height="682" alt="image" src="https://github.com/user-attachments/assets/6b2ecc4d-7734-424b-ac37-9a448083bdcb" />
+
+
 NeuroScan is a Machine Learning and Computer Vision project focused on classifying brain MRI images into different categories using image processing and machine learning techniques.
 
 The project aims to explore how computers can analyse medical images, extract meaningful visual features, and identify patterns associated with different brain tumour types.
